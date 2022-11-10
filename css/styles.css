@@ -680,6 +680,10 @@ footer {
   border-radius: 50%;
 }
 
+.footer-form {
+  margin-left: 23px;
+}
+
 .footer-form h2 {
   font-weight: 700;
   font-size: 14px;
@@ -951,7 +955,7 @@ footer {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
-  margin-bottom: 30px;
+  margin-bottom: 12px;
 }
 
 .modal-input {
@@ -1025,6 +1029,7 @@ footer {
 .checkbox-area {
   display: flex;
   align-items: center;
+  align-self: center;
 }
 
 
